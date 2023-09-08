@@ -1,0 +1,23 @@
+.blue-bg{
+    background-color: rgb(6, 6, 110);
+}
+.blues-bg{
+    background-color: #240e64;
+}
+
+#info{
+    transition-duration: .8s;
+}
+
+#phone{
+    transition-duration: .8s;
+    transition-delay: .5s;
+}
+
+#cards{
+    transition-duration: 1s;    
+}
+
+.tarjetas{
+    transition-duration: .5s;
+}
